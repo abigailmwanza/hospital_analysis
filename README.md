@@ -1,7 +1,7 @@
 # Massachusetts General Hospital KPI Report - Maven Analytics Challenge
 Welcome to the Massachusetts General Hospital (MGH) KPI Report, a comprehensive data analysis project conducted as part of the Maven Analytics Challenge! 🎉 This project provides a deep dive into a subset of patient records, offering valuable insights to drive impactful decisions for hospital management.
 
-
+![](https://github.com/abigailmwanza/hospital_analysis/blob/main/overview%20health.png)
 ## Objectives and Key Insights Delivered
 ### 1. Total Admissions & Readmissions Over Time
 - **Total Admissions:** 974
