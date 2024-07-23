@@ -2,7 +2,23 @@
 Welcome to the Massachusetts General Hospital (MGH) KPI Report, a comprehensive data analysis project conducted as part of the Maven Analytics Challenge! 🎉 This project provides a deep dive into a subset of patient records, offering valuable insights to drive impactful decisions for hospital management.
 
 ![](https://github.com/abigailmwanza/hospital_analysis/blob/main/overview%20health.png)
-## Objectives and Key Insights Delivered
+
+## Data Analysis Process
+### 1. Data Collection and Cleaning
+- Data was collected from patient records, focusing on key metrics such as admissions, readmissions, length of stay, cost, and insurance coverage.
+- The data cleaning process involved removing duplicates, handling missing values, and ensuring data consistency.
+### 2. Exploratory Data Analysis (EDA)
+- EDA was performed to understand data distributions, identify trends, and uncover patterns using various statistical methods and visualizations.
+
+### 3. Data Modeling Process
+- The data modeling process involved structuring and organizing the data to facilitate efficient analysis and reporting
+  
+### 4. Dashboard and Visualization
+-A comprehensive dashboard was created to visualize the key performance indicators (KPIs) and insights.
+-Visuals include line graphs for admissions trends, bar charts for cost analysis, and pie charts for insurance coverage distribution.
+
+
+##  Key Insights Delivered
 ### 1. Total Admissions & Readmissions Over Time
 - **Total Admissions:** 974
 - **Total Readmissions:** 854
@@ -20,20 +36,6 @@ Welcome to the Massachusetts General Hospital (MGH) KPI Report, a comprehensive 
 ### 4. Insurance Coverage Rate
 - **Insurance Coverage Rate:** 30.6%
 - **Insights:** This analysis assessed the proportion of procedures covered by insurance, highlighting areas for potential improvement in financial support for patients.
-
-## Data Analysis Process
-### 1. Data Collection and Cleaning
-- Data was collected from patient records, focusing on key metrics such as admissions, readmissions, length of stay, cost, and insurance coverage.
-- The data cleaning process involved removing duplicates, handling missing values, and ensuring data consistency.
-### 2. Exploratory Data Analysis (EDA)
-- EDA was performed to understand data distributions, identify trends, and uncover patterns using various statistical methods and visualizations.
-
-### 3. Data Modeling Process
-- The data modeling process involved structuring and organizing the data to facilitate efficient analysis and reporting
-### 4. Dashboard and Visualization
--A comprehensive dashboard was created to visualize the key performance indicators (KPIs) and insights.
--Visuals include line graphs for admissions trends, bar charts for cost analysis, and pie charts for insurance coverage distribution.
-
 
 ## Recommendations
 - Given the significant increases in admissions and readmissions during certain periods, especially during the COVID-19 pandemic, enhancing admission processes and resource allocation is critical to handle surges effectively.
