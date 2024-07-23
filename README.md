@@ -12,7 +12,7 @@ Welcome to the Massachusetts General Hospital (MGH) KPI Report, a comprehensive 
 
 ### 3. Data Modeling Process
 - The data modeling process involved structuring and organizing the data to facilitate efficient analysis and reporting
-  
+ ![](https://github.com/abigailmwanza/hospital_analysis/blob/main/hospital%20modelling.png) 
 ### 4. Dashboard and Visualization
 -A comprehensive dashboard was created to visualize the key performance indicators (KPIs) and insights.
 -Visuals include line graphs for admissions trends, bar charts for cost analysis, and pie charts for insurance coverage distribution.
