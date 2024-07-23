@@ -16,7 +16,7 @@ Welcome to the Massachusetts General Hospital (MGH) KPI Report, a comprehensive 
 ### 4. Dashboard and Visualization
 -A comprehensive dashboard was created to visualize the key performance indicators (KPIs) and insights.
 -Visuals include line graphs for admissions trends, bar charts for cost analysis, and pie charts for insurance coverage distribution.
-
+![](https://github.com/abigailmwanza/hospital_analysis/blob/main/hos%2011.png)
 
 ##  Key Insights Delivered
 ### 1. Total Admissions & Readmissions Over Time
