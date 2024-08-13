@@ -25,7 +25,7 @@ Created a dashboard to visualize KPIs and insights using line graphs, bar charts
 
 ## Encounter class analysis:
 
-
+![](https://github.com/abigailmwanza/hospital_analysis/blob/main/hos%201.png)
 Key Insights
 1. Total Admissions & Readmissions Over Time
 Total Admissions: 974
