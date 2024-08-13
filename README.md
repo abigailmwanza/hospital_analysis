@@ -17,7 +17,7 @@ Analyzed data distributions and trends using statistical methods and visualizati
 ### Data Modeling
 Structured and organized data for efficient analysis and reporting.
 
-
+![](https://github.com/abigailmwanza/hospital_analysis/blob/main/hospital%20modelling.png)
 ## Dashboard and Visualization
 Created a dashboard to visualize KPIs and insights using line graphs, bar charts, and pie charts.
 
