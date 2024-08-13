@@ -6,7 +6,7 @@ Welcome to the Massachusetts General Hospital (MGH) KPI Report, part of the Mave
 ## Objective
 The goal of this project is to analyze patient data and deliver insights to support decision-making and improve hospital operations.
 
-
+![](https://github.com/abigailmwanza/hospital_analysis/blob/main/overview%20health.png)
 
 ## Data Analysis Process
 ### Data Collection and Cleaning
