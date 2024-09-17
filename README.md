@@ -29,11 +29,15 @@ Created a dashboard to visualize KPIs and insights using line graphs, bar charts
 - Monthly Admissions: 27,891
 - Insight: Significant increases in admissions and readmissions in 2014 and 2021, with the latter coinciding with the COVID-19 pandemic. Suggests a need for adaptive strategies during such events.
 2. Average Length of Stay
+  
   ![](https://github.com/abigailmwanza/hospital_analysis/blob/main/h23.png)
   
 - Average Length of Stay: 7.25 hours
 - Insight: Most patients have short stays, with the longest being 22 hours. Indicates efficient management of quick visits.
 3. Average Cost per Visit
+  
+  ![](https://github.com/abigailmwanza/hospital_analysis/blob/main/h24.png)
+  
 - Average Cost per Visit: $3,640
 - Insight: Essential for financial planning and cost management. Effective budgeting and expenditure management are crucial.
 4. Insurance Coverage Rate
