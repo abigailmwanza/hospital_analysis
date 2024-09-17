@@ -20,7 +20,7 @@ Structured and organized data for efficient analysis and reporting.
 ## Dashboard and Visualization
 Created a dashboard to visualize KPIs and insights using line graphs, bar charts, and pie charts.
 
-
+![](https://github.com/abigailmwanza/hospital_analysis/blob/main/h21.png)
 
 ## Key Insights
 1. Total Admissions & Readmissions Over Time
