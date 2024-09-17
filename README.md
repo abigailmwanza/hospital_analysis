@@ -2,6 +2,7 @@
 ## Power BI Project
 
 Welcome to the Massachusetts General Hospital (MGH) KPI Report, part of the Maven Analytics Challenge! 🎉 This project offers a comprehensive analysis of patient records to provide actionable insights for hospital management.
+![](https://github.com/abigailmwanza/hospital_analysis/blob/main/h2.png)
 
 ## Objective
 The goal of this project is to analyze patient data and deliver insights to support decision-making and improve hospital operations.
