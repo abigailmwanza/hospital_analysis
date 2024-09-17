@@ -40,7 +40,10 @@ Created a dashboard to visualize KPIs and insights using line graphs, bar charts
   
 - Average Cost per Visit: $3,640
 - Insight: Essential for financial planning and cost management. Effective budgeting and expenditure management are crucial.
-4. Insurance Coverage Rate
+4. Insurance Coverage Rate and Procedures
+
+  ![](https://github.com/abigailmwanza/hospital_analysis/blob/main/h44.png)
+  
 - Insurance Coverage Rate: 30.6%
 - Insight: Indicates the proportion of procedures covered by insurance. Opportunity to increase insurance partnerships and coverage options.
 ## Recommendations
