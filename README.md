@@ -36,7 +36,7 @@ Created a dashboard to visualize KPIs and insights using line graphs, bar charts
 - Insight: Most patients have short stays, with the longest being 22 hours. Indicates efficient management of quick visits.
 3. Average Cost per Visit
   
-  ![](
+  ![](https://github.com/abigailmwanza/hospital_analysis/blob/main/h333.png)
   
 - Average Cost per Visit: $3,640
 - Insight: Essential for financial planning and cost management. Effective budgeting and expenditure management are crucial.
