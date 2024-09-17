@@ -6,8 +6,7 @@ Welcome to the Massachusetts General Hospital (MGH) KPI Report, part of the Mave
 ## Objective
 The goal of this project is to analyze patient data and deliver insights to support decision-making and improve hospital operations.
 
-![](https://github.com/abigailmwanza/hospital_analysis/blob/main/overview%20health.png)
-
+![](
 ## Data Analysis Process
 ### Data Collection and Cleaning
 Collected data includes admissions, readmissions, length of stay, cost, and insurance coverage.
@@ -17,15 +16,15 @@ Analyzed data distributions and trends using statistical methods and visualizati
 ### Data Modeling
 Structured and organized data for efficient analysis and reporting.
 
-![](https://github.com/abigailmwanza/hospital_analysis/blob/main/hospital%20modelling.png)
+
 ## Dashboard and Visualization
 Created a dashboard to visualize KPIs and insights using line graphs, bar charts, and pie charts.
 
-![](https://github.com/abigailmwanza/hospital_analysis/blob/main/hos%2011.png)
+
 
 ## Encounter class analysis:
 
-![](https://github.com/abigailmwanza/hospital_analysis/blob/main/hos%201.png)
+![](
 
 ## Key Insights
 1. Total Admissions & Readmissions Over Time
